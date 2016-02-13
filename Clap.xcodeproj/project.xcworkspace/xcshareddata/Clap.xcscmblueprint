@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "645B2AFA7DD845D5AF968A7F9404EF6CCCAF8B6D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "645B2AFA7DD845D5AF968A7F9404EF6CCCAF8B6D" : 0,
+    "5E648BAF90F550A21C2815DA1D27E475B78A6687" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "86B311FD-436F-48F7-9690-8B10D46C2262",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "645B2AFA7DD845D5AF968A7F9404EF6CCCAF8B6D" : "Clap\/",
+    "5E648BAF90F550A21C2815DA1D27E475B78A6687" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Clap",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Clap.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/masahiro-nambu\/Clock.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E648BAF90F550A21C2815DA1D27E475B78A6687"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/masahiro-nambu\/Clap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "645B2AFA7DD845D5AF968A7F9404EF6CCCAF8B6D"
+    }
+  ]
+}

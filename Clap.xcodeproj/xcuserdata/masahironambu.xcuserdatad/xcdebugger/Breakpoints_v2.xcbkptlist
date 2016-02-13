@@ -6,7 +6,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Clap/ViewController.swift"
@@ -19,14 +19,14 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Clap.ViewController.init (Clap.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Clap.ViewController"
                   moduleName = "Clap"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/masahironambu/LifeisTech/iPhone%E8%AA%B2%E9%A1%8C/Clap/Clap/ViewController.swift"
-                  timestampString = "477072061.292973"
+                  timestampString = "477083416.421838"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -34,14 +34,14 @@
                   offsetFromSymbolStart = "57">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Clap.ViewController.init (Clap.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Clap.ViewController&gt;"
                   moduleName = "Clap"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/masahironambu/LifeisTech/iPhone%E8%AA%B2%E9%A1%8C/Clap/Clap/ViewController.swift"
-                  timestampString = "477072061.293362"
+                  timestampString = "477083416.422293"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
